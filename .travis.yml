@@ -4,3 +4,4 @@ os:
   - osx
 script:
   - echo 'do stuff'
+  - echo 'more stuff'
